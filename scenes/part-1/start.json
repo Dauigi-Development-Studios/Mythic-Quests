@@ -27,7 +27,7 @@
                     "args": [
                         {
                             "name": "example",
-                            "value": 1
+                            "value": "var#Example"
                         }
                     ]
                 }
