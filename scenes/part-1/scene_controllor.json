@@ -1,0 +1,10 @@
+{
+    "scene_controllors": [],
+    "scenes": [
+        {
+            "id": 0,
+            "name": "Start",
+            "path": "./start.json"
+        }
+    ]
+}

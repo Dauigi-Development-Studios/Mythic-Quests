@@ -1,0 +1,17 @@
+{
+    "scene_controllors": [
+        {
+            "path": "./scenes/part-1/scene_controllor.json",
+            "name": "Part 1"
+        },
+        {
+            "path": "./scenes/part-2/scene_controllor.json",
+            "name": "Part 2"
+        },
+        {
+            "path": "./scenes/part-3/scene_controllor.json",
+            "name": "Part 3"
+        }
+    ],
+    "scenes": []
+}

@@ -1,0 +1,8 @@
+{
+    "game_title": "Example",
+    "game_version": "0.0.1-ALPHA",
+    "settings": {
+        "root_scenes_controllor": "./scenes.json",
+        "root_global_contorllor": "./global.json"
+    }
+}

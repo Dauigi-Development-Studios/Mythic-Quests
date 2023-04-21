@@ -1,0 +1,11 @@
+{
+    "settings": {
+        "start_scene": 0
+    },
+    "variables": [
+        {
+            "name": "Example",
+            "value": "Example"
+        }
+    ]
+}

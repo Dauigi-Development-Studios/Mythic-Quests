@@ -1,0 +1,37 @@
+{
+    "scene_name": "Start",
+    "scene_description": "An example description.",
+    "scene_id": 0,
+    "options": [
+        {
+            "id": 0,
+            "title": "Example",
+            "conditions": [
+                {
+                    "id": 0,
+                    "type": "example_type",
+                    "tests": [
+                        {
+                            "type": "example_type",
+                            "value_1": 100,
+                            "value_2": 0
+                        }
+                    ]
+                }
+            ],
+            "on_execute": [
+                {
+                    "id": 0,
+                    "test_conditions": [0],
+                    "execute_function": "f#example",
+                    "args": [
+                        {
+                            "name": "example",
+                            "value": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
